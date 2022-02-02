@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PJe2FDr4M1eYCNAgv0ZWLmqs9WmidVc/oJpIRQUMxFt9acpsaJGR5bLNrqKP0rRHXrEdR8TcalrFQyiGbEWrsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DiegoSuárezLeón\\source\\repos\\marvelproject\\marvelconsoleproject\\marvelconsoleproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DiegoSuárezLeón\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
